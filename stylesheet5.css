@@ -1,0 +1,65 @@
+#nav{
+background-color:darkgreen;
+height:45px;
+font-size:25px;
+font-weight:bold;
+font:tahoma;
+}
+#nav ul{
+text-align:center;
+padding:0;
+margin:0;
+list-style-type:none;
+}
+#nav a{
+text-decoration:none;
+vertical-align:middle;
+color:white;
+padding:8px 8px 8px 8px;
+}
+#nav li{
+display:inline;
+padding:15px;
+text-align:left;
+}
+#nav a:hover{
+background-color:white;
+color:black;
+text-decoration:none;
+}
+body{
+background-color:red;
+}
+#theform {
+display: table;
+padding:15px;
+background-color:green;
+color:white;
+}
+.row {
+display:table-row;
+}
+.row label {
+//display:table-cell;
+padding:2px;
+text-align:right;
+
+}
+.row input {
+display:table-cell;
+padding:2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
